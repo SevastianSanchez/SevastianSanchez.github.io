@@ -8,3 +8,6 @@ lab*.ipynb
 
 # MyST build outputs
 _build
+
+# R data files (large, not used by the Python notebooks)
+*.RData
